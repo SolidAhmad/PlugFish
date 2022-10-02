@@ -1,4 +1,3 @@
-# ButtFish 🍑🐟
 ### Effortlessly transmitting Morse Code of chess moves
 ---
 ## Wait what now?
